@@ -1,0 +1,2 @@
+$ ssh-keygen -t rsa -C "1084571609@qq.com"
+创建ssh密匙和公匙
